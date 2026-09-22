@@ -92,7 +92,7 @@
 </p>
 
 ---
-
+<!--
 ## 🏆 Proyectos Destacados
 
 <table>
@@ -117,7 +117,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 <!--## 📈 Actividad Reciente-->
