@@ -1,19 +1,16 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Matias</h1>
 
-<h3 align="center">[Tu Rol Principal] | [Especialidad] | [País] 🌎</h3>
+<h3 align="center">Ingeniero de Software | .NET + Angular | Argentina 🇦🇷 🌎</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[tu-usuario]">
+  <a href="https://linkedin.com/in/mgantola">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[tu-usuario]">
+  <a href="https://twitter.com/mgantola">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:[tu-email]">
+  <a href="mailto:mg.antola@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://[tu-portafolio].com">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
@@ -21,13 +18,11 @@
 
 ## 🚀 Sobre mí
 
-- 💼 Actualmente trabajo como **[Tu Puesto]** en **[Empresa]**.
 - 🎓 Estudiando **[Carrera / Certificación]**.
 - 🌱 Aprendiendo **[Tecnología actual]**.
 - 👯 Busco colaborar en proyectos de **[Tipo de proyectos]**.
 - 💬 Pregúntame sobre **[Temas en los que eres experto]**.
-- 📫 Contáctame en: **[tu-email@ejemplo.com]**.
-- ⚡ Dato curioso: **[Algo interesante sobre ti]**.
+- 📫 Contáctame en: **[mg.antola@gmail.com]**.
 
 ---
 
@@ -35,6 +30,7 @@
 
 ### Lenguajes
 <p>
+  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,6 +39,7 @@
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -50,6 +47,7 @@
 
 ### Backend
 <p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -57,9 +55,9 @@
 
 ### Bases de Datos
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />  
 </p>
 
 ### DevOps y Herramientas
