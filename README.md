@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre mí
+<!-- ## 🚀 Sobre mí
 
 - 🎓 Estudiando **[Carrera / Certificación]**.
 - 🌱 Aprendiendo **[Tecnología actual]**.
@@ -25,6 +25,8 @@
 - 📫 Contáctame en: **[mg.antola@gmail.com]**.
 
 ---
+-->
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -118,7 +120,7 @@
 
 ---
 
-## 📈 Actividad Reciente
+<!--## 📈 Actividad Reciente-->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -128,19 +130,19 @@
 ## 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/[tu-usuario]">
+  <a href="https://linkedin.com/in/mgantola">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[tu-usuario]">
+  <a href="https://twitter.com/mgantola">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/[tu-usuario]">
+  <a href="https://instagram.com/matiasantola">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="[tu-usuario]" />
+  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="mgantola" />
 </p>
 
 <p align="center">
